@@ -1,0 +1,74 @@
+h1 {
+    text-align: center;
+    background-color: rgb(129, 204, 138);
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(5%);
+    background-color: lightblue;
+}
+.container2 {
+    display: grid;
+    grid-template-columns: repeat(3%);
+  
+    
+}
+#divin {
+    background-color: bisque;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    border-style: solid;
+    border-color: black;
+    padding: 2%;
+    display:flex;
+    gap: 10%;
+    margin: 2%;
+    
+}
+ 
+#border {
+    border-style: solid;
+    border-color: black;
+}
+
+
+#marginleft {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.zoom-container img:hover {
+        transform: scale(1.4);
+        cursor:grabbing;}
+
+.comicheadline {
+ border-style: solid;   
+ text-align: center;
+ background-color: rgb(129, 204, 138);;
+
+}
+image {
+    align-self: center;
+}
+table {
+    border-style: solid;
+    background-color: lightblue;
+}
+h2 {
+    text-decoration: underline;
+}
+#threeimg {
+  background-color: bisque;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    border-style: solid;
+    border-color: black;
+    padding:1%;
+    display:flex;
+    gap: 10px;
+    margin: 2%;   
+}
