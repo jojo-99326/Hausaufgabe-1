@@ -73,5 +73,6 @@ h2 {
     margin: 2%;   
 }
 #color{
-    background-color:  rgb(129, 204, 138);
+    background-color:  white;
+    border-style: solid;
 }
