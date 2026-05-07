@@ -126,7 +126,11 @@ table {
     border-bottom-color: white;
     
   }
-
+#div7{
+    margin: 2%;
+    border-color: grey;
+    padding:2%;
+}
 
 
 
