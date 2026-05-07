@@ -132,9 +132,12 @@ table {
     margin: 2%;
     border-color: grey;
     padding:2%;
+    background-color: bisque;
 }
 #style{
     font-weight: bold;
 }
+#style_h {
 
+}
 
