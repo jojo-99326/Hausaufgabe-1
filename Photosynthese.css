@@ -75,6 +75,7 @@ table {
     display:flex;
     gap: 10px;
     margin-bottom: 2%;
+    margin-top: 0%;
 }
 #color{
     background-color:  white;
