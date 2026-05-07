@@ -46,7 +46,8 @@ h1 {
 .comicheadline {
  border-style: solid;   
  text-align: center;
- background-color: rgb(129, 204, 138);;
+ background-color: rgb(129, 204, 138);
+ margin: 0px;
 
 }
 #image {
