@@ -103,8 +103,8 @@ table {
     width: 100px;            /* WICHTIG: Gib den Bildern eine feste, kleine Breite */
     height: auto;
     display: block;          /* Entfernt den Standard-Leerraum unter Bildern */
-    margin: 0 ;    /* Erzwingt Null Außenabstand */
-    padding:-80 ;   /* Erzwingt Null Innenabstand */
+    margin: 0px;    /* Erzwingt Null Außenabstand */
+    padding:-80px;   /* Erzwingt Null Innenabstand */
 }
 
 
