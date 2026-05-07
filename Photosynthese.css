@@ -25,7 +25,7 @@ h1 {
     padding-left: 2px;
     padding-right: 0px;
     display:flex;
-    gap: 10%;
+    gap: 0;
     margin: 2%;
     
 }
@@ -94,21 +94,8 @@ table {
     width: 150px;
     height: auto;
     max-width: 80%;}
-.kompakt-reihe {
-    display: flex;
-    justify-content: center; /* Zentriert die Gruppe in der Mitte der Seite */
-    gap: 0px;                /* ABSOLUT KEIN ABSTAND */
-    background-color: #fbdcb9; /* Dein Hintergrund-Farbton */
-    width: 100%;             /* Nutzt die volle Breite des Balkens */
-}
 
-.bild-nah {
-    width: 100px;            /* WICHTIG: Gib den Bildern eine feste, kleine Breite */
-    height: auto;
-    display: block;          /* Entfernt den Standard-Leerraum unter Bildern */
-    margin: 0px;    /* Erzwingt Null Außenabstand */
-    padding: -500px;   /* Erzwingt Null Innenabstand */
-}
+
 
 
 
