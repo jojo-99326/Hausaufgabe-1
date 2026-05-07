@@ -82,16 +82,15 @@ h2 {
   gap: 5px;               /* Hier stellst du den Abstand ein (0 für gar keinen) */
 }
 
-      /* Sorgt dafür, dass 3 Bilder nebeneinander passen 
+   
 .bild-reihe {
     display: flex;          /* Legt die Bilder nebeneinander */
     justify-content: center; /* Zentriert die ganze Gruppe */
     gap: 10px;              /* Hier steuerst du den Abstand (z.B. 5px für noch näher) */
-    background-color: #f7d9b9; /* Der beigefarbene Hintergrund aus deinem Bild */
     padding: 20px 0;
     width: 150px;
     height: auto;
-    max-width: 80%;
-}
+    max-width: 80%;}
+
 
 
