@@ -47,9 +47,11 @@ h1 {
 .comicheadline {
  border-style: solid;   
  text-align: center;
- background-color: rgb(129, 204, 138);
+ background-color: 
+ 
  margin-top: 2%;
  margin-bottom: 0px;
+ 
 
 }
 #image {
@@ -145,9 +147,9 @@ table {
     display:flex;
     gap: 20px;
     border-top-color: bisque;
-    border-bottom-color:bisque;
+    border-bottom-color:black;
     border-right-color:black;
-    border-right-color: black;
+    
 }
 #beige {
     color: bisque;
