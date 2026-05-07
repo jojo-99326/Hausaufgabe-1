@@ -28,6 +28,7 @@ h1 {
 #border {
     border-style: solid;
     border-color: black;
+    border
 }
 
 
@@ -50,6 +51,8 @@ h1 {
 }
 #image {
     align-self: center;
+     border-style: solid;
+    border-color: black;
 }
 table {
     border-style: solid;
