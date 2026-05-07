@@ -136,5 +136,16 @@ table {
 }
 #b_bottom{
     border-bottom-color: black;
+    background-color: bisque;
+    padding-bottom:  0px;
+    padding-top: 0px;
+    padding-left: 10%;
+    padding-right: 0px;
+    display:flex;
+    gap: 20px;
+    /*margin: 2%;*/
+    border-style: solid;
+    border-top-color: bisque;
+    border-bottom-color:bisque;
 }
 
