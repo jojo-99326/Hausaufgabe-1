@@ -86,14 +86,6 @@ table {
 }
 
    
-.bild-reihe {
-    display: flex;          /* Legt die Bilder nebeneinander */
-    justify-content: center; /* Zentriert die ganze Gruppe */
-    gap: 10px;              /* Hier steuerst du den Abstand (z.B. 5px für noch näher) */
-    padding: 20px 0;
-    width: 150px;
-    height: auto;
-    max-width: 80%;}
 
 
 
