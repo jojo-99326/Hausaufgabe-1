@@ -155,3 +155,6 @@ table {
     background-color: rgb(129, 204, 138);
 }
 
+#b_top {
+    border-top-color: black;
+}
