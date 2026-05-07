@@ -137,5 +137,7 @@ table {
 #style{
     font-weight: bold;
 }
-
+#b_bottom{
+    border-bottom-color: bisque;
+}
 
