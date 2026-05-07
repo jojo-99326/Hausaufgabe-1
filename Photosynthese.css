@@ -21,11 +21,11 @@ h1 {
     border-style: solid;
     border-color: black;
     padding-bottom:  0px;
-    padding-top: 0px;
-    padding-left: 2px;
+    padding-top: 2%;
+    padding-left: 2%;
     padding-right: 0px;
     display:flex;
-    gap: 0;
+    gap: 5px;
     margin: 2%;
     
 }
