@@ -76,3 +76,13 @@ h2 {
     background-color:  white;
     border-style: solid;
 }
+.container { /* Ersetze .container durch den Namen deiner Klasse */
+  display: flex;
+  justify-content: center; /* Zentriert die Bilderreihe */
+  gap: 5px;               /* Hier stellst du den Abstand ein (0 für gar keinen) */
+}
+
+img {
+  width: auto;            /* Verhindert, dass die Bilder zu breit werden */
+  max-width: 30%;         /* Sorgt dafür, dass 3 Bilder nebeneinander passen */
+}
