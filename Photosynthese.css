@@ -22,6 +22,8 @@ h1 {
     display:flex;
     gap: 20px;
     /*margin: 2%;*/
+    border-style: solid;
+    border-color: black;
     
 }
  
