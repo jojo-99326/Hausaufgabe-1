@@ -119,6 +119,7 @@ table {
     background-color: bisque;
     border-style: solid;
     border-color: black;
+    text-align: center;
    }
   #div9{
     border-left-color: white;
