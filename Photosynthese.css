@@ -104,10 +104,8 @@ table {
     height: auto;
     display: block;          /* Entfernt den Standard-Leerraum unter Bildern */
     margin: 0 ;    /* Erzwingt Null Außenabstand */
-    padding: 0 ;   /* Erzwingt Null Innenabstand */
+    padding:-5 ;   /* Erzwingt Null Innenabstand */
 }
-#flex {
-     flex-direction: column;
-}
+
 
 
