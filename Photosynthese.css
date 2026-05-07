@@ -101,10 +101,8 @@ table {
 
    }
    #div6 {
-    border-top-color: black;
-    border-left-color: black;
-    border-right-color: black;
-    border-top: solid;
+    border-color: black;
+    border-style: solid;
     background-color: bisque;
     margin-bottom: 2%;
     margin-left: 0px;
