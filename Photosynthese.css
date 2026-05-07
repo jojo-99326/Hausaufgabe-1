@@ -84,5 +84,5 @@ h2 {
 
 img {
   width: auto;            /* Verhindert, dass die Bilder zu breit werden */
-  max-width: 30%;         /* Sorgt dafür, dass 3 Bilder nebeneinander passen */
+  max-width: 70%;         /* Sorgt dafür, dass 3 Bilder nebeneinander passen */
 }
