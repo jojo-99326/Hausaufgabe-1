@@ -120,6 +120,7 @@ table {
     border-style: solid;
     border-color: black;
     text-align: center;
+    padding: 2%;
    }
   #div9{
     border-left-color: white;
