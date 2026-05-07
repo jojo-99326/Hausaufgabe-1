@@ -104,7 +104,7 @@ table {
     height: auto;
     display: block;          /* Entfernt den Standard-Leerraum unter Bildern */
     margin: 0px;    /* Erzwingt Null Außenabstand */
-    padding:-80px;   /* Erzwingt Null Innenabstand */
+    padding: -200px;   /* Erzwingt Null Innenabstand */
 }
 
 
