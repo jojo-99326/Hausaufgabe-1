@@ -103,8 +103,8 @@ h2 {
     width: 100px;            /* WICHTIG: Gib den Bildern eine feste, kleine Breite */
     height: auto;
     display: block;          /* Entfernt den Standard-Leerraum unter Bildern */
-    margin: 0 !important;    /* Erzwingt Null Außenabstand */
-    padding: 0 !important;   /* Erzwingt Null Innenabstand */
+    margin: 0 ;    /* Erzwingt Null Außenabstand */
+    padding: 0 ;   /* Erzwingt Null Innenabstand */
 }
 
 
