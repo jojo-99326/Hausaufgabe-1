@@ -86,7 +86,10 @@ table {
   gap: 5px;               /* Hier stellst du den Abstand ein (0 für gar keinen) */
 }
 
-   
+   #h2_3 {
+    border-top-color: black;
+    border-top: solid;
+   }
 
 
 
