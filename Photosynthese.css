@@ -106,6 +106,8 @@ table {
     margin: 0 ;    /* Erzwingt Null Außenabstand */
     padding: 0 ;   /* Erzwingt Null Innenabstand */
 }
-
+#flex {
+     flex-direction: column;
+}
 
 
