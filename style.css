@@ -9,7 +9,7 @@
     background-color: rgb(129, 204, 138);
     margin:0px;
     height: 100px;
-    width: 700px;;
+    
     body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -19,7 +19,7 @@
 #div2 {
     background:lightblue;
     height: 560px;
-    width: 210px;
+  
     margin: 0%;
     color:lightblue;
     float: left;
@@ -27,7 +27,7 @@
 #div3{
     background-color: bisque;
     height: 560px;;
-    width: 490px;
+  
     margin: 0%;
     color:bisque;
     ;
@@ -35,7 +35,7 @@
 #div5{
     background-color: rgb(129, 204, 138);
     height: 100px;;
-    width: 700px;
+   
     margin: 0%;
     color: rgb(129, 204, 138);
 }
@@ -43,7 +43,7 @@
 #div4 {
     background:lightblue;
     height: 560px;
-    width: 210px;
+  
     margin: 0%;
     color:lightblue;
     float: right;
