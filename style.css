@@ -1,41 +1,39 @@
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f4f8;
-    text-align: center;
-    padding: 40px;
-}
 
-h1 {
-    color: #2c3e50;
-}
 
-p {
-    color: #555;
-    font-size: 18px;
-}
+
+
+
 
 #div1{
     background-color: rgb(129, 204, 138);
     margin:0px;
     height: 100px;width: 100%;
     padding: 10px;
+    body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
 }
 #div24 {
     background:lightblue;
     height: 80%;
     width: 15%;
     margin: 0%;
+    color:lightblue;
 }
 #div3{
     background-color: bisque;
     height:80%;
     width: 490px;
     margin: 0%;
+    color:bisque;
 }
 #div5{
     background-color: rgb(129, 204, 138);
     height:40px;
     width:100%;
     margin: 0%;
+    color: rgb(129, 204, 138);
 }
