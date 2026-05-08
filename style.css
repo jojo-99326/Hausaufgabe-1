@@ -24,14 +24,17 @@ p {
     background:lightblue;
     height: 80%;
     width: 15%;
+    margin: 0%;
 }
 #div3{
     background-color: bisque;
     height:80%;
     width: 490px;
+    margin: 0%;
 }
 #div5{
     background-color: rgb(129, 204, 138);
     height:40px;
     width:100%;
+    margin: 0%;
 }
