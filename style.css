@@ -20,3 +20,18 @@ p {
     margin:0px;
     height: 100px;
 }
+#div24 {
+    background:lightblue;
+    height: 80%;
+    width: 15%;
+}
+#div3{
+    background-color: bisque;
+    height:80%;
+    width: 490px;
+}
+#div5{
+    background-color: rgb(129, 204, 138);
+    height:40px;
+    width:100%;
+}
