@@ -51,7 +51,8 @@ h1 {
  margin-top: 2%;
  margin-bottom: 0px;
  border-bottom-color: rgb(129, 204, 138);
- border-radius: 8px;
+ border-top-left-radius: 8px;
+ border-top-right-radius: 8px;
                 
 
 }
@@ -152,6 +153,8 @@ table {
     border-top-color: bisque;
     border-bottom-color:black;
     border-right-color:black;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
     
 }
 #rgb {
