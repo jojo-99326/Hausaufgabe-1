@@ -164,3 +164,6 @@ table {
     text-align: center;
     font-weight: bold;
 }
+div{
+    border-radius: 8px;
+}
