@@ -42,7 +42,10 @@ h1 {
 
 .zoom-container img:hover {
         transform: scale(1.4);
-        cursor:grabbing;}
+        cursor:grabbing;
+        display: inline-block;
+        overflow: hidden; 
+        border-radius: 8px; }
 
 .comicheadline {
  border-style: solid;   
@@ -161,7 +164,4 @@ table {
 #p {
     text-align: center;
     font-weight: bold;
-}
-img {
-    border-radius: 15px ;
 }
